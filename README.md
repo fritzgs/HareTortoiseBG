@@ -2,7 +2,7 @@
 
 Year 1 - Semester 2 Group Project: Hare and Tortoise Board Game
 
-## Motivation
+## Assignment
 
 Programming Fundamentals II Module - Siobhan Drohan 
 
