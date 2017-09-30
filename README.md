@@ -1,4 +1,4 @@
-# HareTortoiseBG
+# Hare and Tortoise Board Game
 
 Year 1 - Semester 2 Group Project: Hare and Tortoise Board Game
 
